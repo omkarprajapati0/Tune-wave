@@ -40,21 +40,21 @@ const images = [
 
 // Sample songs
 const songs = [
-  { title: "Sapphire", artist: "Ed Sheeran", src: "./ALL-songs/sapphaire.mp3", cover: images[0] },
-  { title: "Beggin'", artist: "Måneskin", src: "./ALL-songs/beggin.mp3", cover: images[1] },
-  { title: "7 Years", artist: "Lukas Graham", src: "./ALL-songs/7-years.mp3", cover: images[2] },
-  { title: "Blinding light", artist: "The Weeknd", src: "./ALL-songs/blinding-light.mp3", cover: images[3] },
-  { title: "without me", artist: "Eminem", src: "./ALL-songs/without-me.mp3", cover: images[4] },
-  { title: "Gangstas Paradise", artist: "Coolio", src: "./ALL-songs/Gangstas-paradise.mp3", cover: images[5] },
-  { title: "Hope", artist: "XXXTentacion", src: "./ALL-songs/Hope.mp3", cover: images[6] },
-  { title: "Lonely", artist: "Akon", src: "./ALL-songs/Lonely.mp3", cover: images[7] },
-  { title: "The Nights", artist: "Avicii", src: "./ALL-songs/The-Nights.mp3", cover: images[8] },
-  { title: "", artist: "", src: "./ALL-songs/Hope.mp3", cover: images[9] },
-  { title: "", artist: "", src: "./ALL-songs/Hope.mp3", cover: images[10] },
-  { title: "", artist: "", src: "./ALL-songs/Hope.mp3", cover: images[11] },
-  { title: "", artist: "", src: "./ALL-songs/Hope.mp3", cover: images[12] },
-  { title: "", artist: "", src: "./ALL-songs/Hope.mp3", cover: images[13] },
-  { title: "", artist: "", src: "./ALL-songs/Hope.mp3", cover: images[14] }
+  { title: "Sapphire", artist: "Ed Sheeran", src: "./sapphaire.mp3", cover: images[0] },
+  { title: "Beggin'", artist: "Måneskin", src: "./beggin.mp3", cover: images[1] },
+  { title: "7 Years", artist: "Lukas Graham", src: "./7-years.mp3", cover: images[2] },
+  { title: "Blinding light", artist: "The Weeknd", src: "./blinding-light.mp3", cover: images[3] },
+  { title: "without me", artist: "Eminem", src: "./without-me.mp3", cover: images[4] },
+  { title: "Gangstas Paradise", artist: "Coolio", src: "./Gangstas-paradise.mp3", cover: images[5] },
+  { title: "Hope", artist: "XXXTentacion", src: "./Hope.mp3", cover: images[6] },
+  { title: "Lonely", artist: "Akon", src: "./Lonely.mp3", cover: images[7] },
+  { title: "The Nights", artist: "Avicii", src: "./The-Nights.mp3", cover: images[8] },
+  { title: "", artist: "", src: "./Hope.mp3", cover: images[9] },
+  { title: "", artist: "", src: "./Hope.mp3", cover: images[10] },
+  { title: "", artist: "", src: "./Hope.mp3", cover: images[11] },
+  { title: "", artist: "", src: "./Hope.mp3", cover: images[12] },
+  { title: "", artist: "", src: "./Hope.mp3", cover: images[13] },
+  { title: "", artist: "", src: "./Hope.mp3", cover: images[14] }
   
   
 ];
@@ -393,3 +393,4 @@ progressContainer.addEventListener("mousemove", function(e) {
 
 
 // hghfgsfgiopo7654322345676543234678744444444444444444444444444444444444444444444444444444444
+
